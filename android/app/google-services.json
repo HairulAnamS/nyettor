@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1072692318415",
+    "project_id": "nyettor",
+    "storage_bucket": "nyettor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072692318415:android:6ffcc0a7582e02d43f67ba",
+        "android_client_info": {
+          "package_name": "com.example.nyettor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072692318415-m0qi9omsvb7ibstahqmqt1cbfk0sicup.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZ2ki3yC3egEic46d-r5laIfvV6ZF8Yww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1072692318415-m0qi9omsvb7ibstahqmqt1cbfk0sicup.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
